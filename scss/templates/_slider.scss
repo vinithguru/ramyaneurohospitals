@@ -58,7 +58,7 @@
 
   .banner{
     min-height: 450px;
-    background: $light!important;
+    // background: $light!important;
   }
 }
 
@@ -71,7 +71,7 @@
 
   .banner{
      min-height: 450px;
-    background: $light!important;
+    // background: $light!important;
   }
 
 }
@@ -84,14 +84,14 @@
     }
 
     .banner{
-      background: $light!important;
+      // background: $light!important;
     }
 
 }
 
 @include desktop{
     .banner{
-      background: $light!important;
+      // background: $light!important;
     }
 }
 

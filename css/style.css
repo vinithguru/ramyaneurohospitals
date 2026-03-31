@@ -552,7 +552,7 @@ a.navbar-brand img {
 
   .banner {
     min-height: 450px;
-    background: #fff !important;
+    /* background: #fff !important; */
   }
 }
 
@@ -564,7 +564,7 @@ a.navbar-brand img {
 
   .banner {
     min-height: 450px;
-    background: #fff !important;
+    /* background: #fff !important; */
   }
 }
 
@@ -575,13 +575,13 @@ a.navbar-brand img {
   }
 
   .banner {
-    background: #fff !important;
+    /* background: #fff !important; */
   }
 }
 
 @media (max-width: 992px) {
   .banner {
-    background: #fff !important;
+    /* background: #fff !important; */
   }
 }
 
